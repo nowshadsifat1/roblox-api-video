@@ -1,0 +1,19 @@
+{
+  "name": "roblox-api",
+  "version": "1.0.0",
+  "description": "roblox api for your needs @creator sxcribble",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sxcribble",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "noblox.js": "^4.13.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
